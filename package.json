@@ -1,0 +1,15 @@
+{
+  "name": "pictureexif",
+  "version": "1.0.0",
+  "description": "this is your picture exif usin cordova",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "EXIF",
+    "PICTURE"
+  ],
+  "author": "remi",
+  "license": "ISC"
+}
