@@ -1,6 +1,6 @@
 {
   "name": "pictureexif",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "this is your picture exif usin cordova",
   "main": "index.js",
   "scripts": {
